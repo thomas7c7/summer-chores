@@ -1,6 +1,6 @@
 # summer-chores
 
-This project demonstrates the use of **JavaScript callbacks** to perform asynchronous tasks in a strict sequence.  
+This project demonstrates **asynchronous JavaScript** using both **callback functions** and **Promises**.
 It simulates a person completing summer chores every Saturday, with a chance of falling asleep as they become tired.
 
-The project is designed to practice callback functions and understand callback chaining.
+The purpose of this assignment is to practice callback chaining, promise chaining, and proper project documentation.
